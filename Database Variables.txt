@@ -1,0 +1,17 @@
+reservation-
+pno int(11)
+splace varchar(255)
+eplace
+tno
+tname
+price
+date  date
+ticket
+tot
+
+traindetails-
+tno int(11)
+tname
+startplace
+destinationplace
+price
