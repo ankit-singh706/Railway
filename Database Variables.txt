@@ -1,4 +1,6 @@
-reservation-
+Table(reservation)-
+
+[Variable name (Variable Length)]
 pno int(11)
 splace varchar(255)
 eplace
@@ -9,7 +11,8 @@ date  date
 ticket
 tot
 
-traindetails-
+Table(traindetails)-
+[Variable name (Variable Length)]
 tno int(11)
 tname
 startplace
